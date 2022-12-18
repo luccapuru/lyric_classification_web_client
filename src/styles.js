@@ -5,6 +5,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding-bottom: 20px;
 `;
 
 export const Form = styled.form`
@@ -40,4 +41,10 @@ export const Button = styled.button`
 
 export const Result = styled.h2`
   color: #fff;
+`;
+
+export const ResultTypes = styled.p`
+  margin: 0;
+  color: #fff;
+  margin-bottom: 10px;
 `;
