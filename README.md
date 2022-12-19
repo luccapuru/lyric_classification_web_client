@@ -1,5 +1,5 @@
 
-# Web Client - Processo Seletivo Finch
+# Web Client - Lyric Classification
 
 Este projeto é parte do projeto de classificação do gênero de música através de sua letra. 
 
