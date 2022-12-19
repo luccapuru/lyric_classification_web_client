@@ -18,3 +18,5 @@ Foram utilizadas duas bibliotecas:
 1. Styled Components - Estilização dos componentes com JavaScript
 
 2. Axios - Consumir a API
+
+O endpoint só funciona com a API rodando localmente. 
