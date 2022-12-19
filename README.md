@@ -11,6 +11,8 @@ Como o projeto está sendo hosteado localmente, abrir [http://localhost:3000](ht
 
 Foram utilizadas duas bibliotecas: 
 
-1. Styled Components - Estilização dos componentes usand javascript
+1. Styled Components - Estilização dos componentes com JavaScript
 
 2. Axios - Consumir a API
+
+Para acessar a API e os modelos de predição, acessar o repositório pelo link: [Lyric Classification](https://github.com/luccapuru/lyric_classification_finch).
